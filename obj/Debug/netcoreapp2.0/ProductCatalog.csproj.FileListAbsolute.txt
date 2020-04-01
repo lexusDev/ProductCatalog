@@ -1,0 +1,11 @@
+/home/alex/Projects/ProductCatalog/bin/Debug/netcoreapp2.0/ProductCatalog.deps.json
+/home/alex/Projects/ProductCatalog/bin/Debug/netcoreapp2.0/ProductCatalog.runtimeconfig.json
+/home/alex/Projects/ProductCatalog/bin/Debug/netcoreapp2.0/ProductCatalog.runtimeconfig.dev.json
+/home/alex/Projects/ProductCatalog/bin/Debug/netcoreapp2.0/ProductCatalog.dll
+/home/alex/Projects/ProductCatalog/bin/Debug/netcoreapp2.0/ProductCatalog.pdb
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.csprojAssemblyReference.cache
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.csproj.CoreCompileInputs.cache
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.AssemblyInfoInputs.cache
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.AssemblyInfo.cs
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.dll
+/home/alex/Projects/ProductCatalog/obj/Debug/netcoreapp2.0/ProductCatalog.pdb
